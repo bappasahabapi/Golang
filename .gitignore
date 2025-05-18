@@ -6,7 +6,7 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
-*.slides.pdf
+Resources/
 *.exe
 *.exe~
 *.dll
@@ -24,5 +24,6 @@
 
 # Go workspace file
 go.work
+Resources/
 
 # End of https://www.toptal.com/developers/gitignore/api/go

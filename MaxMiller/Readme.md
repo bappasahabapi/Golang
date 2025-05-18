@@ -1,4 +1,4 @@
-## 01: Go Essentials
+## 02: Go Essentials
 
 - **Input & Output:**
     - `Future Investment Program`
@@ -74,8 +74,7 @@ In that case, the loop will continue to execute the code inside the loop body un
  
 
 
-## 02: Working With Packages:
-
+## 03: Working With Packages:
 
 - **bank app optimized version:** 
     - `Split Code in multiple files`
@@ -92,4 +91,20 @@ In that case, the loop will continue to execute the code inside the loop body un
     <p> Play 60. Exporting & Importing Identifiers (Variables, Functions & More)<p/>
     <p> 61. Using Third-Party Packages<p/>
 
+
+## 04: Understanding Pointer:
+
+<p> 63-72 <p/>
+
+# Types:
+
+## 05: Stack & Custom Type:
+
+<p> 73-80 all about stack <p/>
+<p> 81. Introducing Methods <p/>
+
+## 06: Interface & Generaic Types:
+
+<p> 99. Preparing An Interface Use-Case <p/>
+<p> 99. Preparing An Interface Use-Case <p/>
 

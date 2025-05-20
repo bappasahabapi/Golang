@@ -108,3 +108,5 @@ In that case, the loop will continue to execute the code inside the loop body un
 <p> 99. Preparing An Interface Use-Case <p/>
 <p> 99. Preparing An Interface Use-Case <p/>
 
+## 06: Managing Related Data With Array and Slice Maps:
+<p> 109. Module Introduction <p/>

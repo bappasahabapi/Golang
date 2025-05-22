@@ -6,9 +6,7 @@ import "fmt"
 func main() {
 
 	accountBalance := 1000.00
-
 	
-
 	// Ask user to dial *247# before starting
 	var ussdInput string
 	fmt.Print("Please dial *247# to start your transaction: ")

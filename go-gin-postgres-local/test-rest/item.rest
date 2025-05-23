@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/items
+
+
+###
+POST http://localhost:8080/items
+Content-Type: application/json
+
+{
+	 
+    "name": "Banana",
+    "quantity": 20
+	
+}

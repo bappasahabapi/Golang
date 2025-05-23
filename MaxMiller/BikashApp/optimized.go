@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 var accountBalance float64 =1000.00
-func main1(){
+func main_(){
 
 
 	// var ussdInput string

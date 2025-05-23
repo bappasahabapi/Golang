@@ -1,0 +1,26 @@
+###
+GET http://localhost:8080/items
+
+
+###
+POST http://localhost:8080/items
+Content-Type: application/json
+
+{
+	 
+    "name": "Aannana",
+    "quantity": 20
+	
+}
+
+### update
+PUT http://localhost:8080/items/1
+Content-Type: application/json
+
+{
+    "name": "apple",
+    "quantity": 20
+}
+
+###
+DELETE http://localhost:8080/items/3

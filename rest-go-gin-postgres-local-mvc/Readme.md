@@ -1,6 +1,6 @@
 # Folder Structure
 - `go mod tidy`  that install all missing dependency
-- 
+- `go get github.com/joho/godotenv` for env
 go-gin-postgres-local/
 ├── main.go                 # Main application entry, router setup
 ├── `config/`

@@ -1,0 +1,26 @@
+### Get all the items
+GET http://localhost:8080/items
+
+
+### Create a new item
+POST http://localhost:8080/items
+Content-Type: application/json
+
+{
+	 
+    "name": "Apple",
+    "quantity": 20
+	
+}
+
+### Update a new item
+PUT http://localhost:8080/items/2
+Content-Type: application/json
+
+{
+    "name": "Updated Apple",
+    "quantity": 30
+}
+
+### Delete specific item
+DELETE http://localhost:8080/items/1

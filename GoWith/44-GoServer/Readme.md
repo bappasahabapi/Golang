@@ -1,0 +1,2 @@
+- `go mod init ecommerce`
+- Run the file: ` go run main.go`

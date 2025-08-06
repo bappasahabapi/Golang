@@ -5,7 +5,6 @@
 ## To see the fronted
 
 -  cd product-listing-react
--  cd client
 -  npm i
 -  npm start
 
